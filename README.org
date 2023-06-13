@@ -1,0 +1,10 @@
+* lila
+
+a cleaner language based on Common Lisp
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/codr7/lila.git   |
+| commit  | 39c14d0  |
+| systems | lila |
+|---------+-------------------------------------------|
+
